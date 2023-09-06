@@ -9,7 +9,7 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://github.com/njrapidinnovation/instacart-plugin-yaml/blob/master/openapi.yaml",
+    "url": "https://raw.githubusercontent.com/njrapidinnovation/instacart-plugin-yaml/master/openapi.yaml",
     "is_user_authenticated": false
   },
   "logo_url": "https://www.instacart.com/assets/beetstrap/brand/2022/carrotlogo-1286c257354036d178c09e815906198eb7f012b8cdc4f6f8ec86d3e64d799a5b.png",
